@@ -1,0 +1,34 @@
+--- Doctors ---
+ 
+Name: aaron
+Surname: finch
+Date of birth: 05-04-2000
+Mobile number: 4567891230
+Medical licence number: 444
+Specialisation: paediatric
+ 
+------------------------------------
+Name: kusal
+Surname: mendis
+Date of birth: 13-04-1996
+Mobile number: 0112323236
+Medical licence number: 333
+Specialisation: medical
+ 
+------------------------------------
+Name: jason
+Surname: roy
+Date of birth: 12-04-1990
+Mobile number: 0123456789
+Medical licence number: 111
+Specialisation: dental
+ 
+------------------------------------
+Name: mark
+Surname: wood
+Date of birth: 25-12-1990
+Mobile number: 1123456788
+Medical licence number: 222
+Specialisation: cosmetic
+ 
+------------------------------------
